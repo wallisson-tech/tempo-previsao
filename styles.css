@@ -78,3 +78,23 @@ body{
     color: #ffffff;
     margin-top: 20px;
 }
+
+footer {
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.imagem img {
+    width: 100px;
+    height: 90px;
+    padding: 20px;
+    margin-right: 190px;
+    position: relative;
+}
